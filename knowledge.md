@@ -18,7 +18,7 @@ zepto：移动端开发，zepto移动端事件，touch。
 ## 模块化开发
 requirejs、seajs、commonjs规范。
 
-## MVC框架
+## MV**框架
 backbone、angularjs、react、react Native；
 
 ## 工程化：
