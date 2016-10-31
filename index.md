@@ -1,7 +1,7 @@
 # 个人简历
 
 ## **李光**
-8年前端开发经验，3年移动开发经验（webapp、hybrid app）；熟悉backbone设计思路；熟练使用webpack、fis、gulp；熟练使用backbone、React开发
+8年前端开发经验，3年移动开发经验（webapp、hybrid app）；4年大公司（百度新闻）工作经验；熟悉backbone设计思路；熟练使用webpack、fis、gulp；熟练使用backbone、React开发
 
 ## **联系方式**
 电话&&微信：`18612673039`
