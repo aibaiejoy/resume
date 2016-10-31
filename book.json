@@ -1,0 +1,18 @@
+{
+	"variables": {
+		"title": "个人简历",
+		"theme": "theme-deepblue",
+		"copyright": ""
+	},
+	"collapsible_menu":true,
+	"level_number":false,
+	"links": {
+		"gitbook": false,
+		"sharing": {
+			"all":false
+		}
+	},
+	"style":{
+		"website":"styles/website.css"
+	}
+}
