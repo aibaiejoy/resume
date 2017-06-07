@@ -1,4 +1,5 @@
 {
+<<<<<<< HEAD
     "title": "李光个人简历",
     "variables": {
         "theme": "theme-gray",
@@ -14,3 +15,22 @@
 	    "epub": "styles/epub.css"
 	}
 }
+=======
+	"variables": {
+		"title": "个人简历",
+		"theme": "theme-deepblue",
+		"copyright": ""
+	},
+	"collapsible_menu":true,
+	"level_number":false,
+	"links": {
+		"gitbook": false,
+		"sharing": {
+			"all":false
+		}
+	},
+	"style":{
+		"website":"styles/website.css"
+	}
+}
+>>>>>>> 509eaefa0d4fabaa3892ede52491f6c087285286
