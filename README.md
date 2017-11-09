@@ -1,7 +1,7 @@
 # 个人简历
 
 ## **李光**
-8年前端开发经验，3年移动开发经验（webapp、hybrid app）；4年大公司（百度）工作经验；熟悉backbone设计思路；熟练使用webpack、fis、gulp；熟练使用backbone、React开发；熟悉webapck、es6、react相关技术栈。
+8年前端开发经验，3年移动开发经验（webapp、hybrid app）；4年大公司（百度）工作经验；熟悉backbone设计思路；熟练使用webapck、es6、react、redux相关技术栈，熟悉node开发脚手架工具。
 
 ## **联系方式**
 电话：`18612673039`
@@ -11,7 +11,7 @@
 前端架构师、资深前端开发工程师
 
 ## **工作经历**
-1. 2017年1月至今就职于阿里巴巴钉钉团队，参与钉钉运动的开发，钉钉UI组件库的开发，拓展市场的活动开发。
+1. 2017年1月至今就职于阿里巴巴钉钉团队，参与钉钉运动的开发，钉钉UI组件库的开发，拓展市场的活动开发，前端脚手架开发。
 2. 2015年5月2016年12月就职于大唐网络有限公司（原大唐电信云事业部），任职前端架构师，负责前端技术方向把控，前端技术推广，项目框架开发；前端团队管理。
 3. 2011年5月18日至2015年4月先后就职于百度前端研发部、百度新闻，任职资深前端工程师参与前端开发工作。
 4. 2009年10月到2011年5月就职于北京四海到达网络科技有限公司，负责公司云计算企业管理平台、社交网络平台的、ERP等Web前端工作。
@@ -20,10 +20,11 @@
 ## **项目经验**
 
 1. 在钉钉任职期间主要重点工作：
-	a. 升级iconfont到svg，配合webpack插件svg-sprite-loader动态合并svg文件；
-	b. 使用redux-action简化action、reducer的重复代码；
-	c. 升级脚手架基于java接口文件生成action；
-	d. 基于webpack、react、react-router、redux、redux-action开发日常项目；
+	a. 前端脚手架开发，主要功能是静态服务器，根据后端提供的idl接口文件生成前端redux的action、actionType。
+	b. 升级iconfont到svg，配合webpack插件svg-sprite-loader动态合并svg文件；
+	c. 使用redux-action简化action、reducer的重复代码；
+	d. 升级脚手架基于java接口文件生成action；
+	e. 基于webpack、react、react-router、redux、redux-action开发日常项目；
 
 2. 在大唐网络任职前端架构师期间主要工作：
 	a. 使用fis，backbone，react，搭建了两个项目，一个pc、一个移动；
